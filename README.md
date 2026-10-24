@@ -1,37 +1,46 @@
-# Rxsty
+# Hey, I'm Panagiotis 👋
 
-**Software Engineer · Full-Stack Developer · Automation**
+### Also known as **Rxsty** · Developer from Cyprus 🇨🇾
 
-I build software, backend systems, AI-powered tools, and automation that simplify complex workflows.
+I'm a developer who loves building things, solving problems, and understanding how systems work under the hood. I enjoy turning ideas into real software, automating repetitive tasks, and connecting technologies to create something useful.
 
-- ⚙️ Interested in **systems engineering, AI, APIs, and cybersecurity**
-- 🧠 Focused on **problem-solving, architecture, and practical solutions**
-- 🛠️ Building connected tools, dashboards, and developer infrastructure
-- 📍 Cyprus · [rxsty.xyz](https://rxsty.xyz)
+- 💻 Full-stack development, backend systems & APIs
+- 🤖 AI, automation & intelligent tools
+- 🔐 Systems engineering, infrastructure & cybersecurity
+- 🛠️ Always experimenting, learning, and building something new
 
-### Projects
+### 🚀 What I'm Building
 
-| Project | Description |
-|---|---|
-| [Orbscape](https://orbscape.co) | Software ecosystem and automation |
-| [RxstyBot](https://github.com/RxstyBot/bot) | Discord bot and integrations |
-| [Developer Dashboard](https://dashboard.panais.eu) | Unified workspace and system management |
+- **[Orbscape](https://orbscape.co)** — A connected software ecosystem built around useful tools and automation.
+- **[RxstyBot](https://github.com/RxstyBot/bot)** — A Discord bot focused on functionality and integrations.
+- **[Developer Dashboard](https://dashboard.panais.eu)** — A unified workspace for managing tools, systems, and projects.
+- **[Personal Portfolio](https://panais.eu)** — My personal website, projects, and developer profile.
 
-### GitHub Statistics
+### 🌐 My Portfolio
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rxstyq&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxstyq&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Most-used languages in public repositories" />
+  <a href="https://panais.eu">
+    <img src="https://image.thum.io/get/width/1200/crop/700/https://panais.eu" alt="Preview of my personal portfolio" width="100%" />
+  </a>
+  <br />
+  <a href="https://panais.eu">Visit panais.eu →</a>
+</p>
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxstyq&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxstyq&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Most-used languages in public repositories" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rxstyq&style=flat&color=58A6FF&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rxstyq&style=flat&color=58A6FF&label=Profile+Visitors" alt="Profile visitors" />
 </p>
 
-### Connect
+### 🤝 Let's Connect
 
-[Website](https://rxsty.xyz) · [GitHub](https://github.com/rxstyq) · [Email](mailto:me@rxsty.xyz)
+🌐 [Portfolio](https://panais.eu) · 💻 [GitHub](https://github.com/rxstyq) · ✉️ [Email](mailto:me@rxsty.xyz)
 
 ---
 
-<sub>Build systems. Solve problems. Keep improving.</sub>
+*Curious by nature. Developer by choice. Always building.*
